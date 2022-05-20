@@ -1,0 +1,47 @@
+
+
+
+body {
+
+    background-color: #E5E5E5;
+    font-family: 'Lato', sans-serif;;
+    font-size: 16px;
+}
+
+.btn {
+    background-color:  #717171;
+    border: none;
+    font-size: 15px;
+  }
+.box{
+    background-color: #FFFFFF;
+    align-items: center;
+    height: 70px;
+}
+#logo{
+
+    width: 96px;
+    height: 39px;
+    margin-left: -150px;
+}
+#icones{
+
+    margin-left: 150px;
+    font-size: 25px;
+    gap: 20px;
+    cursor: pointer;
+}
+footer {
+    gap:10px;
+    justify-content: center;
+    background-color: gray;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+#nome{
+
+    text-decoration: none;
+    color: white;
+}
